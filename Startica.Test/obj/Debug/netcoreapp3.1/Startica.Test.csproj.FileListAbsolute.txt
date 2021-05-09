@@ -1,0 +1,13 @@
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\Startica.Test\Startica.Test\bin\Debug\netcoreapp3.1\Startica.Test.exe
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\Startica.Test\Startica.Test\bin\Debug\netcoreapp3.1\Startica.Test.deps.json
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\Startica.Test\Startica.Test\bin\Debug\netcoreapp3.1\Startica.Test.runtimeconfig.json
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\Startica.Test\Startica.Test\bin\Debug\netcoreapp3.1\Startica.Test.runtimeconfig.dev.json
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\Startica.Test\Startica.Test\bin\Debug\netcoreapp3.1\Startica.Test.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\Startica.Test\Startica.Test\bin\Debug\netcoreapp3.1\Startica.Test.pdb
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\Startica.Test\Startica.Test\obj\Debug\netcoreapp3.1\Startica.Test.csprojAssemblyReference.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\Startica.Test\Startica.Test\obj\Debug\netcoreapp3.1\Startica.Test.AssemblyInfoInputs.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\Startica.Test\Startica.Test\obj\Debug\netcoreapp3.1\Startica.Test.AssemblyInfo.cs
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\Startica.Test\Startica.Test\obj\Debug\netcoreapp3.1\Startica.Test.csproj.CoreCompileInputs.cache
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\Startica.Test\Startica.Test\obj\Debug\netcoreapp3.1\Startica.Test.dll
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\Startica.Test\Startica.Test\obj\Debug\netcoreapp3.1\Startica.Test.pdb
+D:\_00 RONAN1810@GMAIL GOOGLE DRIVE BACKUP 100GB\28 Job Interview Works\Startica.Test\Startica.Test\obj\Debug\netcoreapp3.1\Startica.Test.genruntimeconfig.cache
